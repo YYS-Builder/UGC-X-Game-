@@ -1,0 +1,9 @@
+com/ugc/card/model/targeting/AbilityType.class
+com/ugc/card/model/EffectType.class
+com/ugc/card/model/targeting/ValidationRule.class
+com/ugc/card/model/targeting/TargetingComponent.class
+com/ugc/card/model/targeting/ComponentCategory.class
+com/ugc/card/model/targeting/FleshAndBloodAbilityParser.class
+com/ugc/card/model/targeting/TargetingChain.class
+com/ugc/card/model/targeting/TargetingPattern.class
+com/ugc/card/model/targeting/GameAbilityParser.class

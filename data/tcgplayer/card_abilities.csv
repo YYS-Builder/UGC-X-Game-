@@ -1,0 +1,303 @@
+Card Name,Type,Ability Text
+Lightning Bolt,Instant,Deal 3 damage to any target
+Giant Growth,Instant,Target creature gets +3/+3 until end of turn
+Healing Salve,Instant,Choose one — Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn
+Counterspell,Instant,Counter target spell
+Swords to Plowshares,Instant,Exile target creature. Its controller gains life equal to its power
+Wrath of God,Sorcery,Destroy all creatures. They can't be regenerated
+Dark Ritual,Instant,Add BBB
+Ancestral Recall,Instant,Target player draws three cards
+Time Walk,Sorcery,Target player takes an extra turn after this one
+Black Lotus,Artifact,T, Sacrifice Black Lotus: Add three mana of any one color
+Chaos Orb,Artifact,1, T: Choose a nontoken permanent on the battlefield. If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, and lands resting on the chosen permanent, destroy that permanent. Then destroy Chaos Orb
+Mind Twist,Sorcery,Target player discards X cards at random
+Balance,Sorcery,Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way
+Channel,Instant,Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add C
+Contract from Below,Sorcery,Discard your hand, then draw seven cards. Remove Contract from Below from your deck before playing if you're not playing for ante
+Demonic Tutor,Sorcery,Search your library for a card, put that card into your hand, then shuffle your library
+Fastbond,Enchantment,You may play any number of lands on each of your turns. Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you
+Gifts Ungiven,Instant,Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library
+Necropotence,Enchantment,Skip your draw step. Whenever you discard a card, exile that card from your graveyard. Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step
+Time Vault,Artifact,Time Vault enters the battlefield tapped. Time Vault doesn't untap during your untap step. Skip your next turn: Untap Time Vault and put a time counter on it. T, Remove all time counters from Time Vault: Take an extra turn after this one
+Brainstorm,Instant,Draw three cards, then put two cards from your hand on top of your library in any order
+Ponder,Instant,Look at the top three cards of your library, then put them back in any order. You may shuffle. Draw a card
+Preordain,Instant,Scry 2, then draw a card
+Serum Visions,Instant,Draw a card. Scry 2
+Gitaxian Probe,Instant,Look at target player's hand. Draw a card
+Thoughtseize,Instant,Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life
+Inquisition of Kozilek,Instant,Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card
+Path to Exile,Instant,Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle
+Lightning Helix,Instant,Lightning Helix deals 3 damage to any target and you gain 3 life
+Bolt of Keranos,Instant,Bolt of Keranos deals 3 damage to target creature or player. Scry 1
+Electrolyze,Instant,Electrolyze deals 2 damage divided as you choose among any number of target creatures and/or players. Draw a card
+Fire // Ice,Instant,Fire deals 2 damage to any target. Ice taps target permanent. Draw a card
+Mana Leak,Instant,Counter target spell unless its controller pays 3
+Remand,Instant,Return target spell to its owner's hand. Draw a card
+Cryptic Command,Instant,Choose two — Counter target spell; or return target permanent to its owner's hand; or tap all creatures your opponents control; or draw a card
+Supreme Verdict,Sorcery,Destroy all creatures. They can't be regenerated
+Day of Judgment,Sorcery,Destroy all creatures
+Terminus,Sorcery,Put all creatures on the bottom of their owners' libraries
+Wrath of God,Sorcery,Destroy all creatures. They can't be regenerated
+Damnation,Sorcery,Destroy all creatures. They can't be regenerated
+Liliana of the Veil,Planeswalker,+1: Each player discards a card. -2: Target player sacrifices a creature. -6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice
+Jace, the Mind Sculptor,Planeswalker,+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library. 0: Draw three cards, then put two cards from your hand on top of your library in any order. -1: Return target creature to its owner's hand. -12: Exile all cards from target player's library, then that player shuffles their hand into their library
+Tarmogoyf,Creature,Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1
+Snapcaster Mage,Creature,Flash. When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost
+Dark Confidant,Creature,At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost
+Stoneforge Mystic,Creature,When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle. 1W, T: You may put an Equipment card from your hand onto the battlefield
+Vendilion Clique,Creature,Flash. Flying. When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card
+Squadron Hawk,Creature,Flying. When Squadron Hawk enters the battlefield, you may search your library for up to three cards named Squadron Hawk, reveal them, put them into your hand, then shuffle your library
+Birds of Paradise,Creature,Flying. T: Add one mana of any color
+Noble Hierarch,Creature,Exalted. T: Add G, W, or U
+Deathrite Shaman,Creature,T: Exile target land card from a graveyard. Add one mana of any color. B, T: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life. G, T: Exile target creature card from a graveyard. You gain 2 life
+Tropical Island,Land,T: Add G or U
+Volcanic Island,Land,T: Add U or R
+Underground Sea,Land,T: Add U or B
+Badlands,Land,T: Add B or R
+Taiga,Land,T: Add R or G
+Savannah,Land,T: Add G or W
+Scrubland,Land,T: Add W or B
+Plateau,Land,T: Add R or W
+Bayou,Land,T: Add B or G
+Tundra,Land,T: Add W or U
+Karn Liberated,Planeswalker,+4: Target player exiles a card from their hand. -3: Exile target permanent. -14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield
+Ugin, the Spirit Dragon,Planeswalker,+2: Ugin, the Spirit Dragon deals 3 damage to any target. -X: Exile each permanent with converted mana cost X or less that's one or more colors. -10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield
+Teferi, Time Raveler,Planeswalker,+1: Until your next turn, you may cast sorcery spells as though they had flash. -3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card. -8: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls"
+Narset of the Ancient Way,Planeswalker,+1: You may discard a card. If you do, draw a card. If a noncreature, nonland card was discarded this way, you gain 2 life. -2: You may pay 1. If you do, exile the top card of your library. Until the end of your next turn, you may play that card. -6: Create a 4/4 white Djinn Monk creature token with flying and "Noncreature spells you cast cost 2 less to cast"
+Teferi, Hero of Dominaria,Planeswalker,+1: Draw a card. At the beginning of the next end step, untap up to two lands. -3: Put target nonland permanent into its owner's library third from the top. -8: You get an emblem with "Whenever you draw a card, you have no maximum hand size" and "Whenever a card is put into your graveyard from anywhere, you may return it to your hand"
+Tezzeret, Agent of Bolas,Planeswalker,+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order. -1: Target artifact becomes an artifact creature with base power and toughness 5/5. -4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control
+Tezzeret the Seeker,Planeswalker,+1: Untap up to two target artifacts. -X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library. -5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn
+Dack Fayden,Planeswalker,+1: Target player draws two cards, then discards two cards. -2: Gain control of target artifact. -6: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents"
+Ashiok, Dream Render,Planeswalker,+1: Target player mills four cards. Then exile each opponent's graveyard. -1: Target creature gets -3/-0 until your next turn. -7: You get an emblem with "Your opponents can't search their libraries. Players can't cast spells from anywhere other than their hands"
+Ashiok, Nightmare Weaver,Planeswalker,+2: Exile the top three cards of target opponent's library. -X: Exile target nonland permanent with converted mana cost X or less. -10: Exile all cards from all opponents' hands and graveyards
+Ashiok, Nightmare Muse,Planeswalker,+1: Create a 2/3 blue and black Nightmare creature token with "Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library." -3: Return target nonland permanent to its owner's hand, then that player exiles a card from their hand. -8: You get an emblem with "At the beginning of your end step, each opponent exiles cards from the top of their library until they exile a nonland card. Until your next turn, you may cast that card without paying its mana cost"
+Nicol Bolas, Dragon-God,Planeswalker,+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control. -3: Destroy target creature or planeswalker. -8: Each opponent who doesn't control a legendary creature or planeswalker loses the game
+Nicol Bolas, the Ravager,Creature,Flying. When Nicol Bolas, the Ravager enters the battlefield, each opponent discards a card. 4: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery
+Nicol Bolas, the Arisen,Planeswalker,+2: Draw two cards. -3: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker. -4: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. -12: Exile all but the bottom card of target player's library
+Nicol Bolas, God-Pharaoh,Planeswalker,+2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost. +1: Each opponent exiles two cards from their hand. -4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls. -12: Exile each nonland permanent your opponents control
+Nicol Bolas, Planeswalker,Planeswalker,+3: Destroy target noncreature permanent. -2: Gain control of target creature. -9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents
+Nicol Bolas, the Deceiver,Planeswalker,+3: Each opponent loses 3 life unless they discard a card. -2: Draw two cards, then discard a card. -10: Target opponent loses 7 life, discards seven cards, then sacrifices seven permanents
+Charizard,Pokemon,Once during your turn (before your attack), you may look at the top 3 cards of your deck and put them back in any order
+Pikachu,Pokemon,When this Pokemon is Knocked Out by damage from an opponent's attack, you may search your deck for up to 2 Basic Energy cards and attach them to your Pokemon in any way you like. Then, shuffle your deck
+Mewtwo,Pokemon,Once during your turn (before your attack), you may choose 1 of your opponent's Pokemon. If you do, this Pokemon's attacks do 30 more damage to that Pokemon for the rest of the turn
+Blastoise,Pokemon,Once during your turn (before your attack), you may attach a Water Energy card from your hand to 1 of your Pokemon
+Dragonite,Pokemon,When you play this Pokemon from your hand to evolve 1 of your Pokemon, you may switch 1 of your opponent's Benched Pokemon with their Active Pokemon
+Professor Oak,Pokemon Trainer,Discard your hand and draw 7 cards
+Rare Candy,Pokemon Trainer,Choose 1 of your Basic Pokemon in play. If you have a Stage 2 card in your hand that evolves from that Pokemon, put that card on the Basic Pokemon. This counts as evolving that Pokemon
+Energy Switch,Pokemon Trainer,Move a basic Energy card attached to 1 of your Pokemon to another of your Pokemon
+Bravo, Star of the Show,Flesh and Blood,Once per turn, when you attack with a Guardian weapon, you may put a card from your hand on the bottom of your deck. If you do, draw a card
+Rhinar, Reckless Rampage,Flesh and Blood,Once per turn, when you attack with a Brute weapon, you may discard a card at random from your hand. If you do, the attack gains +2 power
+Dash, Inventor Extraordinaire,Flesh and Blood,Once per turn, when you play a Mechanologist card, you may put a card from your hand on the bottom of your deck. If you do, draw a card
+Katsu, the Wanderer,Flesh and Blood,Once per turn, when you attack with a Ninja weapon, you may reveal a card from your hand. If it's a Ninja card, the attack gains +1 power
+Dorinthea, Valiant Warrior,Flesh and Blood,Once per turn, when you attack with a Warrior weapon, you may put a card from your hand on the bottom of your deck. If you do, the attack gains +1 power
+Blue-Eyes White Dragon,Yu-Gi-Oh,This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale
+Dark Magician,Yu-Gi-Oh,The ultimate wizard in terms of attack and defense
+Red-Eyes Black Dragon,Yu-Gi-Oh,A ferocious dragon with a deadly attack
+Polymerization,Yu-Gi-Oh,Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material
+Monster Reborn,Yu-Gi-Oh,Target 1 monster in either GY; Special Summon it
+Raigeki,Yu-Gi-Oh,Destroy all monsters your opponent controls
+Mirror Force,Yu-Gi-Oh,When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls
+Solemn Judgment,Yu-Gi-Oh,When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card
+Pot of Greed,Yu-Gi-Oh,Draw 2 cards
+Dark Hole,Yu-Gi-Oh,Destroy all monsters on the field
+Mystical Space Typhoon,Yu-Gi-Oh,Target 1 Spell/Trap on the field; destroy that target
+Call of the Haunted,Yu-Gi-Oh,Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card
+Torrential Tribute,Yu-Gi-Oh,When a monster(s) is Summoned: Destroy all monsters on the field
+Bottomless Trap Hole,Yu-Gi-Oh,When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it
+Compulsory Evacuation Device,Yu-Gi-Oh,Target 1 monster on the field; return that target to the hand
+Book of Moon,Yu-Gi-Oh,Target 1 face-up monster on the field; change that target to face-down Defense Position
+Swords of Revealing Light,Yu-Gi-Oh,After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack
+Pot of Duality,Yu-Gi-Oh,Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 "Pot of Duality" per turn. You cannot Special Summon during the turn you activate this card
+Dark Hole,Yu-Gi-Oh,Destroy all monsters on the field
+Mirror Force,Yu-Gi-Oh,When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls
+Solemn Warning,Yu-Gi-Oh,When a monster(s) would be Summoned, OR when a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Pay 2000 LP; negate the Summon or activation, and if you do, destroy it
+Bottomless Trap Hole,Yu-Gi-Oh,When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it
+Compulsory Evacuation Device,Yu-Gi-Oh,Target 1 monster on the field; return that target to the hand
+Book of Moon,Yu-Gi-Oh,Target 1 face-up monster on the field; change that target to face-down Defense Position
+Swords of Revealing Light,Yu-Gi-Oh,After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack
+Pot of Duality,Yu-Gi-Oh,Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 "Pot of Duality" per turn. You cannot Special Summon during the turn you activate this card
+Mickey Mouse - Wayward Sorcerer,Lorcana,When you play this character, you may return an action card from your discard pile to your hand
+Elsa - Snow Queen,Lorcana,When you play this character, you may exert up to 2 target characters
+Maleficent - Monstrous Dragon,Lorcana,When you play this character, you may banish a character with cost 3 or less
+Stitch - Rock Star,Lorcana,When you play this character, you may draw a card
+Ariel - On Human Legs,Lorcana,When you play this character, you may exert a character
+Beast - Hardheaded,Lorcana,When you play this character, you may exert a character
+Captain Hook - Forceful Duelist,Lorcana,When you play this character, you may exert a character
+Cinderella - Stouthearted,Lorcana,When you play this character, you may exert a character
+Dr. Facilier - Agent Provocateur,Lorcana,When you play this character, you may exert a character
+Genie - On the Job,Lorcana,When you play this character, you may exert a character
+Hades - King of Olympus,Lorcana,When you play this character, you may exert a character
+Jafar - Keeper of Secrets,Lorcana,When you play this character, you may exert a character
+Maui - Hero to All,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Detective,Lorcana,When you play this character, you may exert a character
+Mulan - Imperial Soldier,Lorcana,When you play this character, you may exert a character
+Prince Eric - Dashing and Brave,Lorcana,When you play this character, you may exert a character
+Rapunzel - Gifted with Healing,Lorcana,When you play this character, you may exert a character
+Simba - Future King,Lorcana,When you play this character, you may exert a character
+Sisu - Divine Water Dragon,Lorcana,When you play this character, you may exert a character
+Tinker Bell - Most Helpful,Lorcana,When you play this character, you may exert a character
+Ursula - Power Hungry,Lorcana,When you play this character, you may exert a character
+Be Prepared,Lorcana,Banish all characters
+Dragon Fire,Lorcana,Banish chosen character
+Let It Go,Lorcana,Return chosen character to its owner's hand
+One Jump Ahead,Lorcana,Return chosen character to its owner's hand
+Friends on the Other Side,Lorcana,Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of your deck
+Grab Your Sword,Lorcana,Deal 2 damage to chosen character
+Mother Knows Best,Lorcana,Return chosen character to its owner's hand
+Part of Your World,Lorcana,Draw 2 cards
+Be Our Guest,Lorcana,Draw a card
+Develop Your Brain,Lorcana,Draw a card
+Just in Time,Lorcana,Draw a card
+Lantern,Lorcana,Draw a card
+Magic Mirror,Lorcana,Draw a card
+Mickey Mouse - Detective,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Wayward Sorcerer,Lorcana,When you play this character, you may return an action card from your discard pile to your hand
+Mickey Mouse - Brave Little Tailor,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Steamboat Pilot,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Musketeer,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Artful Rogue,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Detective,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Wayward Sorcerer,Lorcana,When you play this character, you may return an action card from your discard pile to your hand
+Mickey Mouse - Brave Little Tailor,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Steamboat Pilot,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Musketeer,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Artful Rogue,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Detective,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Wayward Sorcerer,Lorcana,When you play this character, you may return an action card from your discard pile to your hand
+Mickey Mouse - Brave Little Tailor,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Steamboat Pilot,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Musketeer,Lorcana,When you play this character, you may exert a character
+Mickey Mouse - Artful Rogue,Lorcana,When you play this character, you may exert a character
+Luke Skywalker - Jedi Knight,Star Wars,When this unit attacks, you may ready it
+Darth Vader - Dark Lord of the Sith,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Han Solo - Smuggler,Star Wars,When this unit attacks, you may draw a card
+Princess Leia - Rebel Leader,Star Wars,When this unit attacks, you may ready another unit
+Chewbacca - Loyal Companion,Star Wars,When this unit attacks, you may ready another unit
+Obi-Wan Kenobi - Jedi Master,Star Wars,When this unit attacks, you may ready another unit
+Yoda - Jedi Master,Star Wars,When this unit attacks, you may ready another unit
+Emperor Palpatine - Dark Lord of the Sith,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Boba Fett - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Darth Maul - Sith Apprentice,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Count Dooku - Sith Lord,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+General Grievous - Separatist Leader,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Jango Fett - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Mace Windu - Jedi Master,Star Wars,When this unit attacks, you may ready another unit
+Qui-Gon Jinn - Jedi Master,Star Wars,When this unit attacks, you may ready another unit
+Ahsoka Tano - Jedi Padawan,Star Wars,When this unit attacks, you may ready another unit
+Asajj Ventress - Sith Assassin,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Cad Bane - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Dengar - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+IG-88 - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Bossk - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+Zuckuss - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+4-LOM - Bounty Hunter,Star Wars,When this unit attacks, you may deal 2 damage to target unit
+The Force,Star Wars,Ready target unit
+Force Push,Star Wars,Deal 2 damage to target unit
+Force Lightning,Star Wars,Deal 3 damage to target unit
+Force Choke,Star Wars,Deal 1 damage to target unit
+Force Heal,Star Wars,Heal 2 damage from target unit
+Force Speed,Star Wars,Ready target unit
+Force Jump,Star Wars,Ready target unit
+Force Pull,Star Wars,Deal 1 damage to target unit
+Force Push,Star Wars,Deal 2 damage to target unit
+Force Lightning,Star Wars,Deal 3 damage to target unit
+Force Choke,Star Wars,Deal 1 damage to target unit
+Force Heal,Star Wars,Heal 2 damage from target unit
+Force Speed,Star Wars,Ready target unit
+Force Jump,Star Wars,Ready target unit
+Force Pull,Star Wars,Deal 1 damage to target unit
+Dr. Boom,Hearthstone,Battlecry: Summon two 1/1 Boom Bots. WARNING: Bots may explode
+Ragnaros the Firelord,Hearthstone,Can't attack. At the end of your turn, deal 8 damage to a random enemy
+Sylvanas Windrunner,Hearthstone,Deathrattle: Take control of a random enemy minion
+Tirion Fordring,Hearthstone,Divine Shield. Taunt. Deathrattle: Equip a 5/3 Ashbringer
+Ysera,Hearthstone,At the end of your turn, add a Dream Card to your hand
+Alexstrasza,Hearthstone,Battlecry: Set a hero's remaining Health to 15
+Deathwing,Hearthstone,Battlecry: Destroy all other minions and discard your hand
+Onyxia,Hearthstone,Battlecry: Summon 1/1 Whelps until your side of the battlefield is full
+Malygos,Hearthstone,Spell Damage +5
+Nozdormu,Hearthstone,Players only have 15 seconds to take their turns
+Azure Drake,Hearthstone,Spell Damage +1. Battlecry: Draw a card
+Bloodmage Thalnos,Hearthstone,Spell Damage +1. Deathrattle: Draw a card
+Loot Hoarder,Hearthstone,Deathrattle: Draw a card
+Novice Engineer,Hearthstone,Battlecry: Draw a card
+Acolyte of Pain,Hearthstone,Whenever this minion takes damage, draw a card
+Gadgetzan Auctioneer,Hearthstone,Whenever you cast a spell, draw a card
+Nat Pagle,Hearthstone,At the start of your turn, you have a 50% chance to draw a card
+Worgen Infiltrator,Hearthstone,Stealth
+Stranglethorn Tiger,Hearthstone,Stealth
+Edwin VanCleef,Hearthstone,Combo: Gain +2/+2 for each card played earlier this turn
+SI:7 Agent,Hearthstone,Combo: Deal 2 damage
+Eviscerate,Hearthstone,Deal 2 damage. Combo: Deal 4 damage instead
+Sap,Hearthstone,Return an enemy minion to your opponent's hand
+Backstab,Hearthstone,Deal 2 damage to an undamaged minion
+Deadly Poison,Hearthstone,Give your weapon +2 Attack
+Blade Flurry,Hearthstone,Destroy your weapon and deal its damage to all enemy minions
+Fan of Knives,Hearthstone,Deal 1 damage to all enemy minions. Draw a card
+Sprint,Hearthstone,Draw 4 cards
+Preparation,Hearthstone,The next spell you cast this turn costs (3) less
+Conceal,Hearthstone,Give your minions Stealth until your next turn
+Vanish,Hearthstone,Return all minions to their owner's hand
+Kid Omega,Marvel Snap,On Reveal: If your opponent played a card here this turn, +3 Power
+Iron Man,Marvel Snap,Ongoing: Your total Power is doubled here
+Devil Dinosaur,Marvel Snap,Ongoing: +2 Power for each card in your hand
+Moon Girl,Marvel Snap,On Reveal: Copy the lowest-Cost card in your hand
+White Tiger,Marvel Snap,On Reveal: Add a 7-Power Tiger to another location
+Wong,Marvel Snap,Ongoing: Your On Reveal abilities at this location happen twice
+Doctor Strange,Marvel Snap,On Reveal: Move your highest-Power card to this location
+Hulkbuster,Marvel Snap,On Reveal: Merge with a random friendly card here
+Mister Fantastic,Marvel Snap,Ongoing: +2 Power to adjacent locations
+Namor,Marvel Snap,Ongoing: +5 Power if this is your only card here
+Spectrum,Marvel Snap,On Reveal: Give your Ongoing cards +2 Power
+Blue Marvel,Marvel Snap,Ongoing: Your other cards have +1 Power
+Kazar,Marvel Snap,Ongoing: Your 1-Cost cards have +1 Power
+Onslaught,Marvel Snap,Ongoing: Double your other Ongoing effects here
+Patriot,Marvel Snap,Ongoing: Your cards with no abilities have +2 Power
+Ultron,Marvel Snap,On Reveal: Add four 1-Power Drones to each other location
+Wasp,Marvel Snap,On Reveal: Return an enemy card at this location
+Yellowjacket,Marvel Snap,On Reveal: Afflict all cards in your hand with -1 Power
+Ant-Man,Marvel Snap,Ongoing: If you have 3 other cards here, +3 Power
+Elektra,Marvel Snap,On Reveal: Destroy a random enemy 1-Cost card at this location
+Misty Knight,Marvel Snap,No ability
+Shocker,Marvel Snap,No ability
+Abomination,Marvel Snap,No ability
+The Thing,Marvel Snap,No ability
+Cyclops,Marvel Snap,No ability
+Hulk,Marvel Snap,No ability
+Reno Jackson,Hearthstone,Battlecry: If your deck has no duplicates, restore your hero to full Health
+Kazakus,Hearthstone,Battlecry: If your deck has no duplicates, create a custom spell
+Elise Starseeker,Hearthstone,Battlecry: Shuffle the 'Map to the Golden Monkey' into your deck
+Brann Bronzebeard,Hearthstone,Your Battlecries trigger twice
+Zola the Gorgon,Hearthstone,Battlecry: Choose a friendly minion. Add a copy of it to your hand
+Shudderwock,Hearthstone,Battlecry: Repeat all other Battlecries from cards you played this game
+Zephrys the Great,Hearthstone,Battlecry: If your deck has no duplicates, wish for the perfect card
+Sir Finley Mrrgglton,Hearthstone,Battlecry: Discover a new Basic Hero Power
+Loatheb,Hearthstone,Battlecry: Enemy spells cost (5) more next turn
+Emperor Thaurissan,Hearthstone,At the end of your turn, reduce the Cost of cards in your hand by (1)
+N'Zoth, the Corruptor,Hearthstone,Battlecry: Summon your Deathrattle minions that died this game
+Y'Shaarj, Rage Unbound,Hearthstone,At the end of your turn, summon a minion from your deck
+C'Thun,Hearthstone,Battlecry: Deal damage equal to this minion's Attack randomly split among all enemies
+Yogg-Saron, Hope's End,Hearthstone,Battlecry: Cast a random spell for each spell you've cast this game
+N'Zoth, God of the Deep,Hearthstone,Battlecry: Summon your Deathrattle minions that died this game
+Y'Shaarj, the Defiler,Hearthstone,At the end of your turn, summon a minion from your deck
+C'Thun, the Shattered,Hearthstone,Battlecry: Deal damage equal to this minion's Attack randomly split among all enemies
+Yogg-Saron, Master of Fate,Hearthstone,Battlecry: Cast a random spell for each spell you've cast this game
+Mystique,Marvel Snap,On Reveal: If the last card you played has an Ongoing ability, this card gains that ability
+Taskmaster,Marvel Snap,On Reveal: Copy the Power of the last card you played
+Zola,Marvel Snap,On Reveal: Destroy the last card you played here, then add copies of it to the other locations
+Arnim Zola,Marvel Snap,On Reveal: Destroy the last card you played here, then add copies of it to the other locations
+Viper,Marvel Snap,On Reveal: Switch control of the last card you played here with a random enemy card at another location
+Green Goblin,Marvel Snap,On Reveal: Switch sides
+Hobgoblin,Marvel Snap,On Reveal: Switch sides
+The Hood,Marvel Snap,On Reveal: Add a Demon to your hand
+Black Widow,Marvel Snap,On Reveal: Add a Widow's Bite to your opponent's hand
+Iceman,Marvel Snap,On Reveal: Randomly increase the Cost of a card in your opponent's hand by 1
+Scorpion,Marvel Snap,On Reveal: Afflict all cards in your opponent's hand with -1 Power
+Morph,Marvel Snap,On Reveal: Transform into a copy of a card in your opponent's deck
+Mysterio,Marvel Snap,On Reveal: Add 2 Illusions to other locations
+Invisible Woman,Marvel Snap,Ongoing: Cards you play here are not revealed until the game ends
+Magik,Marvel Snap,On Reveal: Change this location to Limbo
+Storm,Marvel Snap,On Reveal: Flood this location. Next turn is the last turn cards can be played here
+Juggernaut,Marvel Snap,On Reveal: Move all enemy cards played here this turn to other locations
+Aero,Marvel Snap,On Reveal: Move the last enemy card played this turn to this location
+Magneto,Marvel Snap,On Reveal: Move all enemy 3 and 4-Cost cards to this location
+Kingpin,Marvel Snap,Ongoing: When any card moves here on turn 6, destroy it 
